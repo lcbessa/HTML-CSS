@@ -1,0 +1,21 @@
+body {
+  background-color: #000;
+}
+h1 {
+  color: #fff;
+  font-size: 1.5em;
+  text-align: center;
+}
+p {
+  color: #fff;
+  font-size: 1.5em;
+  text-align: center;
+  margin: 0%;
+}
+
+p a:any-link {
+  color: #fff;
+}
+p a:hover {
+  color: blue;
+}
