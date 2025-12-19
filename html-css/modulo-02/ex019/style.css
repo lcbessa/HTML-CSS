@@ -13,7 +13,19 @@ h1 {
 }
 #principal {
   text-align: center;
+  background-color: #3c805e;
+  color: white;
 }
 h2 {
   color: rgb(51, 77, 49);
+}
+
+.basico {
+  color: green;
+}
+.intermediario {
+  color: blue;
+}
+.avancado {
+  color: red;
 }
