@@ -5,9 +5,18 @@ h1 {
   background-color: lightgray;
   height: 300px;
   width: 300px;
-  border-width: 5px;
-  padding: 15px;
-  margin: 15px;
+
+  /* border-width: 5px;
   border-style: solid;
-  border-color: darkslategray;
+  border-color: darkslategray; */
+
+  /* Simplifica para: */
+  border: 5px solid darkslategray;
+
+  padding: 15px 15px 15px 15px; /* Cima, direita, baixo, esquerda */
+  /* padding: 20px 40px; Cima, Baixo com 20 px. direita, esquerda 40px*/
+
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
